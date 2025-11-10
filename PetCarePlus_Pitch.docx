@@ -1,0 +1,164 @@
+PetCare+ – Ứng dụng chăm sóc thú cưng toàn diện
+Ngày: [2025-MM-DD]
+Người liên hệ: [Họ tên người sáng lập] | Email: [email@example.com] | ĐT: [+84 ...]
+Logo: [Chèn logo PetCare+ nếu có]
+
+MỤC LỤC (Table of Contents)
+1. Bìa & Tóm tắt điều hành .......................................................... 1
+2. Giới thiệu tổng quát & Nhu cầu thị trường ..................................... 2
+3. Chi tiết về sản phẩm (Chức năng) ................................................ 3
+4. Phân tích thị trường & Cạnh tranh ............................................... 4
+5. Mô hình kinh doanh, Kế hoạch tiếp cận & Lộ trình .......................... 5
+6. Tài chính sơ bộ, Đội ngũ, Yêu cầu gọi vốn & Kết luận ..................... 6
+Phụ lục ....................................................................................... (sau)
+
+---- Trang 1: Bìa & Tóm tắt điều hành ----
+[Heading 1] 1. Bìa & Tóm tắt điều hành
+
+Tiêu đề: PetCare+ — Ứng dụng chăm sóc thú cưng toàn diện
+Tagline: Chăm sóc, theo dõi và kết nối dịch vụ cho thú cưng của bạn trong một ứng dụng
+
+Tóm tắt điều hành (Executive Summary)
+- Sứ mệnh: Mang đến giải pháp công nghệ toàn diện để chăm sóc sức khỏe và đời sống cho thú cưng, giúp chủ nuôi quản lý, chăm sóc và kết nối dịch vụ nhanh chóng, tiện lợi.
+- Vấn đề: Chủ nuôi gặp khó khăn trong việc theo dõi lịch tiêm chủng, sức khỏe, dinh dưỡng, lịch hẹn chăm sóc, và tìm dịch vụ thú y/grooming uy tín.
+- Giải pháp: PetCare+ cung cấp hồ sơ sức khỏe điện tử cho thú cưng, nhắc lịch tự động, tư vấn từ xa, đặt lịch và thanh toán dịch vụ, cộng đồng chia sẻ kinh nghiệm, và marketplace cho sản phẩm/dịch vụ thú cưng.
+- Mục tiêu gọi vốn (gợi ý): 250,000 USD để hoàn thiện sản phẩm, mở rộng thị trường và đạt mốc người dùng trong 18 tháng.
+
+---- Trang 2: Giới thiệu tổng quát & Nhu cầu thị trường ----
+[Heading 1] 2. Giới thiệu tổng quát & Nhu cầu thị trường
+
+2.1 Giới thiệu tổng quát
+- Tên dự án: PetCare+
+- Loại hình: Ứng dụng mobile (iOS & Android) + web admin cho đối tác (phòng khám, groomer).
+- Mục tiêu khách hàng: Chủ nuôi (22-55 tuổi), phòng khám thú y, cửa hàng thú cưng, groomer độc lập.
+
+2.2 Nhu cầu thị trường (Tổng quan & Pain points)
+- Xu hướng: Số lượng thú cưng và chi tiêu cho thú cưng đang tăng nhanh tại Việt Nam & ASEAN.
+- Vấn đề chưa được giải quyết: Thiếu nền tảng quản lý y tế tập trung; khó tìm dịch vụ tin cậy; thiếu dữ liệu sức khỏe liên tục cho thú cưng.
+- Pain points:
+  - Quên lịch tiêm chủng / thuốc tẩy giun.
+  - Khó lưu trữ lịch sử khám chữa bệnh.
+  - Tốn thời gian tìm dịch vụ gần và đáng tin cậy.
+  - Thiếu tư vấn nhanh khi cần cấp cứu hoặc thay đổi chế độ ăn.
+
+2.3 Kích thước thị trường (gợi ý số mẫu để bạn cập nhật)
+- TAM (Total Addressable Market): ví dụ 1.2 tỷ USD (tham khảo, cập nhật theo nguồn)
+- SAM (Serviceable Available Market): ví dụ 120 triệu USD (kênh số trong các thành phố lớn)
+- SOM (Serviceable Obtainable Market): ví dụ 6 triệu USD (mục tiêu giai đoạn đầu)
+
+---- Trang 3: Chi tiết về sản phẩm (Phân tích chức năng) ----
+[Heading 1] 3. Chi tiết về sản phẩm (Chức năng)
+
+3.1 Các tính năng chính
+- Hồ sơ sức khỏe điện tử cho thú cưng: dữ liệu tiêm chủng, bệnh lý, thuốc, lịch khám.
+- Nhắc lịch tự động: tiêm chủng, tẩy giun, khám định kỳ, hẹn grooming.
+- Tư vấn online (telehealth): chat/teleconsult với bác sĩ thú y, theo lượt hoặc gói.
+- Đặt lịch & thanh toán: phòng khám, groomer, dịch vụ chăm sóc tại nhà.
+- Marketplace: thức ăn, phụ kiện, thuốc; tích hợp đối tác giao hàng.
+- Cộng đồng & nội dung: bài viết, video, đánh giá, mẹo chăm sóc.
+- Báo cáo sức khỏe & phân tích: biểu đồ cân nặng, lịch sử ốm đau, đề xuất dinh dưỡng.
+
+3.2 Công nghệ & kiến trúc
+- Ứng dụng: iOS & Android, web admin.
+- Backend: API RESTful, DB quan hệ + NoSQL cho analytics.
+- Tích hợp: cổng thanh toán, SMS/email, video-call (WebRTC), maps.
+- Bảo mật: mã hóa dữ liệu y tế, phân quyền truy cập, tuân thủ best practices.
+
+3.3 Trải nghiệm người dùng (UX)
+- Onboarding: nhập/cài đặt hồ sơ thú cưng nhanh, quét giấy tờ/tiêm chủng.
+- Dashboard: tổng quan nhắc việc, trạng thái sức khỏe.
+- Tìm kiếm & lọc: theo vị trí, đánh giá, giá, chuyên môn.
+
+3.4 Ưu thế cạnh tranh
+- Hồ sơ y tế liên tục & telehealth tích hợp.
+- Kết hợp marketplace & dữ liệu sức khỏe cá nhân hóa.
+- Quan hệ đối tác với phòng khám địa phương.
+
+---- Trang 4: Phân tích thị trường & Cạnh tranh ----
+[Heading 1] 4. Phân tích thị trường & Cạnh tranh
+
+4.1 Kích thước thị trường & cơ hội
+- Thống kê & xu hướng tiêu dùng: (chèn số liệu cập nhật)
+- Cơ hội: chuyển sang kênh số, gia tăng nhu cầu y tế và chăm sóc định kỳ.
+
+4.2 Persona (Khách hàng mục tiêu)
+- Persona A: Young professional, 25-35, nuôi 1-2 thú cưng, sẵn sàng chi cho dịch vụ chất lượng.
+- Persona B: Gia đình trung lưu, quan tâm sức khỏe lâu dài cho thú cưng.
+- Persona C: Phòng khám/groomer cần quản lý khách và tăng booking.
+
+4.3 Phân tích cạnh tranh
+- Đối thủ tiềm năng: app A, app B, nền tảng marketplace C (liệt kê cụ thể theo thị trường).
+- Bảng so sánh (tóm tắt):
+  - Hồ sơ sức khỏe: PetCare+ (Có) | Đối thủ A (Không)
+  - Telehealth: PetCare+ (Có) | Đối thủ B (Có nhưng hạn chế)
+  - Marketplace: PetCare+ (Tích hợp) | Đối thủ C (Có nhưng không cá nhân hóa)
+
+4.4 Lợi thế cạnh tranh bền vững
+- Dữ liệu y tế tích lũy, thuật toán gợi ý, UX thân thiện, hệ sinh thái đối tác.
+
+---- Trang 5: Mô hình kinh doanh, Kế hoạch tiếp cận & Lộ trình ----
+[Heading 1] 5. Mô hình kinh doanh, Kế hoạch tiếp cận & Lộ trình
+
+5.1 Mô hình doanh thu
+- Commission trên booking: 10–20% trên mỗi booking.
+- Thuê bao chủ nuôi (Premium): ARPU gợi ý 3–5 USD/tháng.
+- Thuê bao cho phòng khám/groomer: phí quản lý + hiển thị.
+- Telehealth trả phí theo lượt/gói.
+- Doanh thu từ marketplace: lợi nhuận bán hàng + phí quảng cáo.
+
+5.2 Chiến lược tiếp cận (Go-to-market)
+- Giai đoạn 1 (0–6 tháng): MVP tại 1–2 TP lớn, hợp tác 10–20 phòng khám/groomer, chạy FB/IG, KOL.
+- Giai đoạn 2 (6–18 tháng): mở rộng vùng phủ, SEO/ASO, referral program, event pet fair.
+- Kênh: social, đối tác phòng khám, retail partners, content marketing.
+
+5.3 KPI & mục tiêu mẫu (gợi ý để bạn điều chỉnh)
+- 6 tháng: 10,000 người đăng ký, 3,000 active users/tháng, 1,200 bookings/tháng.
+- 12 tháng: 50,000 người đăng ký, ARR mục tiêu 360,000 USD.
+- CAC dự kiến: 10–30 USD, LTV dự kiến: 120–300 USD.
+
+5.4 Lộ trình sản phẩm (Roadmap)
+- Q1: MVP (hồ sơ sức khỏe, nhắc lịch, booking)
+- Q2: Telehealth v1, cổng thanh toán, marketplace beta
+- Q3: AI đề xuất dinh dưỡng & cảnh báo sức khỏe
+- Q4: Mở rộng liên kết chuỗi, nâng cấp UX, phát triển B2B
+
+---- Trang 6: Tài chính sơ bộ, Đội ngũ, Yêu cầu gọi vốn & Kết luận ----
+[Heading 1] 6. Tài chính sơ bộ, Đội ngũ, Yêu cầu gọi vốn & Kết luận
+
+6.1 Dự báo tài chính sơ bộ (Mẫu)
+- Giả định chính: tốc độ growth, tỉ lệ chuyển đổi, ARPU.
+- Ví dụ (số mẫu, cập nhật sau):
+  - Năm 1: Doanh thu: 120,000 USD | Chi phí OPEX: 240,000 USD | Lỗ: -120,000 USD
+  - Năm 2: Doanh thu: 600,000 USD | Chi phí: 420,000 USD | Lợi nhuận: 180,000 USD
+
+6.2 Yêu cầu gọi vốn & sử dụng vốn (Gợi ý)
+- Số tiền cần gọi: 250,000 USD (gợi ý)
+- Phân bổ:
+  - 45% phát triển sản phẩm
+  - 30% marketing & growth
+  - 15% tuyển dụng & vận hành
+  - 10% pháp lý & dự phòng
+
+6.3 Đội ngũ sáng lập & Advisors (mẫu)
+- [Họ tên] — CEO: kinh nghiệm startup/marketing
+- [Họ tên] — CTO: dev mobile/backend
+- [Họ tên] — Head BizDev: quan hệ phòng khám/đối tác
+- Advisors: bác sĩ thú y, cố vấn tài chính, marketing
+
+6.4 Rủi ro & phương án giảm thiểu
+- Các rủi ro: CAC cao, quản lý dữ liệu y tế, chậm triển khai tính năng.
+- Giải pháp: kiểm soát chi phí, hợp tác chiến lược, roadmap rõ ràng, tuân thủ bảo mật.
+
+6.5 Kêu gọi hành động (Ask)
+- Tìm nhà đầu tư chiến lược/angel/VC đồng hành giai đoạn seed.
+- Đề nghị gặp pitching, xem demo product, thảo luận điều khoản đầu tư.
+
+Phụ lục (nếu cần)
+- Mockup screenshots (đính kèm riêng)
+- Bảng chi tiết giả định tài chính (Excel)
+- Hợp đồng hợp tác mẫu với phòng khám/groomer
+- Tài liệu pháp lý / IP
+
+Ghi chú:
+- Tôi đã để các placeholder cho số liệu (TAM, SAM, SOM, các KPI, con số tài chính). Nếu bạn muốn, tôi có thể điền các con số mẫu chi tiết hơn theo giả định bạn đồng ý, hoặc cập nhật bằng số liệu thực tế bạn cung cấp.
+- Các Heading ở trên (Heading 1) sẽ giúp Word tự tạo navigation (pane) và Mục lục (Table of Contents) khi bạn mở file và cập nhật TOC trong Word.
