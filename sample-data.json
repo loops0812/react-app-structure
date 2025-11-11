@@ -1,0 +1,44 @@
+[
+  {
+    "stb": "STB001",
+    "tenKhachHang": "Nguyen Van A",
+    "diaChi": "123 Le Loi, TP.HCM",
+    "soTien": 1000000.00,
+    "ngayChungTu": "2025-09-15"
+  },
+  {
+    "stb": "STB001",
+    "tenKhachHang": "Tran Thi B",
+    "diaChi": "456 Nguyen Hue, TP.HCM",
+    "soTien": 2000000.00,
+    "ngayChungTu": "2025-09-15"
+  },
+  {
+    "stb": "STB001",
+    "tenKhachHang": "Le Van C",
+    "diaChi": "789 Dong Khoi, TP.HCM",
+    "soTien": 1500000.00,
+    "ngayChungTu": "2025-09-15"
+  },
+  {
+    "stb": "STB002",
+    "tenKhachHang": "Pham Thi D",
+    "diaChi": "321 Hai Ba Trung, Ha Noi",
+    "soTien": 3000000.00,
+    "ngayChungTu": "2025-09-16"
+  },
+  {
+    "stb": "STB002",
+    "tenKhachHang": "Hoang Van E",
+    "diaChi": "654 Hoan Kiem, Ha Noi",
+    "soTien": 2500000.00,
+    "ngayChungTu": "2025-09-16"
+  },
+  {
+    "stb": "STB003",
+    "tenKhachHang": "Vu Thi F",
+    "diaChi": "987 Bach Mai, Ha Noi",
+    "soTien": 1800000.00,
+    "ngayChungTu": "2025-09-17"
+  }
+]
